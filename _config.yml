@@ -1,6 +1,6 @@
 name: Jens Ingebretsen
 favicon: null
-layout_spectrum: 0.3883199051488191
+layout_spectrum: 0.74224
 typography_spectrum: 0.5813717925921082
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#22222b'
+    - '#ffffff'
+    - '#565c68'
+    - '#bb684e'
+    - '#b32746'
   brandStrength: 0.29705605166964233
   lightness: 0.02603905857540667
   saturation: 0.7563263499177992
