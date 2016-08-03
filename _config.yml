@@ -1,19 +1,4 @@
-name: Jens Ingebretsen
-favicon: null
-layout_spectrum: 0.96762
 typography_spectrum: 0.57469
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#23281e'
@@ -25,4 +10,20 @@ color:
   lightness: 0.02603905857540667
   saturation: 0.7563263499177992
   rhythmicContrast: 0.19032729812897742
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.96762
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Jens Ingebretsen
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Jens Ingebretsen
 purpose: []
